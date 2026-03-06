@@ -2,9 +2,6 @@
 
 This tool parses complex reasoning traces from a Large Language Model (LLM), such as chain-of-thought, and generates an interactive graph visualization. It helps you understand, debug, and analyze the step-by-step logical flow of an AI's decision-making process.
 
-![Screenshot of the LLM Reasoning Visualizer](./screenshot.png)
-*A sample visualization of the LLM's reasoning for a simple logic puzzle.*
-
 ## Features
 
 -   **Interactive Graph:** Visualizes the reasoning process as a directed graph, where each node is a distinct thought or step.
